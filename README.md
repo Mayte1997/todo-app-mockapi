@@ -38,8 +38,6 @@ src/
 
 ## 🌐 Live Demo
 
-> _(Add your deployed link here)_  
-> https://your-vercel-or-netlify-link.com
 
 ---
 
@@ -48,7 +46,7 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/todo-app-mockapi.git
+git clone https://github.com/Mayte1997/todo-app-mockapi.git
 cd todo-app-mockapi
 ```
 
@@ -84,8 +82,6 @@ const API_URL = 'https://your-mockapi-url.mockapi.io/api/v1/tasks';
 ## 📦 Deploy Instructions
 
 - Push to GitHub
-- Connect your repo to [Vercel](https://vercel.com) or [Netlify](https://netlify.com)
-- It will auto-deploy on each push!
 
 ---
 
@@ -94,10 +90,6 @@ const API_URL = 'https://your-mockapi-url.mockapi.io/api/v1/tasks';
 Made with ❤️ by **Mayte Dixon**
 
 > For portfolio or class submission  
-> Email: [mayte@example.com](mailto:mayte@example.com)
+> Email: [maytedixon9@gmail.com](mailto:maytedixon9@gmail.com)
 
 ---
-
-## 📜 License
-
-This project is licensed under MIT — use it, remix it, just give credit.
