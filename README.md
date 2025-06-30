@@ -87,7 +87,7 @@ const API_URL = 'https://your-mockapi-url.mockapi.io/api/v1/tasks';
 
 ## 🧠 Author
 
-Made with ❤️ by **Mayte Dixon**
+Made by **Mayte Dixon**
 
 > For portfolio or class submission  
 > Email: [maytedixon9@gmail.com](mailto:maytedixon9@gmail.com)
