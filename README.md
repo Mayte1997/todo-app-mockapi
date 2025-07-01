@@ -37,7 +37,7 @@ src/
 ---
 
 ## 🌐 Live Demo
-
+https://main.d2int7l28reket.amplifyapp.com/
 
 ---
 
@@ -82,6 +82,8 @@ const API_URL = 'https://your-mockapi-url.mockapi.io/api/v1/tasks';
 ## 📦 Deploy Instructions
 
 - Push to GitHub
+- Connect your repo to AWS Amplifiy
+- It will auto-deploy on each push!
 
 ---
 
